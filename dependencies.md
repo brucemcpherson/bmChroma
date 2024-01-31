@@ -1,5 +1,5 @@
 # Google Apps Script Project: bmChroma
-This repo (bmChroma) was automatically updated on 5/18/2023, 10:32:59?AM by GasGit
+This repo (bmChroma) was automatically updated on 1/31/2024, 1:16:11 PM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -20,6 +20,9 @@ Chroma| server_js
 Exports| server_js
 test| server_js
 ColorWords| server_js
+Schemes| server_js
+BuiltInCustomSchemes| server_js
+CustomScheme| server_js
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
